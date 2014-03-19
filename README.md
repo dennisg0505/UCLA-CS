@@ -1,6 +1,6 @@
 # UCLA Computer Science - 2005
 
-This repository contains sample projects developed for CS classes at UCLA. Each directory contains source code for the projects developed in respective courses. The sample projects here are prior to 2005 and should only be used as references for learning purposes. These projects were developed by students while learning key CS concepts, therefore they should NOT be considered production environments. 
+This repository contains sample projects developed for CS classes at UCLA. Each directory contains source code for the projects developed in respective courses. The sample projects here are prior to 2005 and should only be used as references for learning purposes. These projects were developed by students while learning key CS concepts, therefore they should NOT be considered for production or professional environments.
 
 ### CS111 Project - OS Class
 
