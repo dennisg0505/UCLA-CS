@@ -1,10 +1,10 @@
-# UCLA Computer Science Projects - 2005
+# UCLA Computer Science - 2005
 
-This repository contains sample projects developed CS classes at UCLA. Each directory contains the source code for the projects developed in that class. The sample projects here are prior to 2005 and should only be used as reference for learning purposes. These projects were developed by students while learning key CS concepts and should not be considered production level code. 
+This repository contains sample projects developed for CS classes at UCLA. Each directory contains source code for the projects developed in respective courses. The sample projects here are prior to 2005 and should only be used as references for learning purposes. These projects were developed by students while learning key CS concepts, therefore they should NOT be considered production environments. 
 
-### CS111 Project - Operating System Class
+### CS111 Project - OS Class
 
-This repository contains projects developed for the Operating Systems Class (CS111) at UCLA 2005. The projects were written in C/C++.
+This repository contains projects developed for the Operating Systems Class (CS111) at UCLA 2005 (C/C++).
 
 * prj1: **Sample Bash-Like Shell in C**. (key conceps: string manipulation & process forking).
 * prj2: **Implement system call in Linux Kernel**. (system calls in kernel, patchs, diff).
