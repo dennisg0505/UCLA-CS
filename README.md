@@ -4,7 +4,7 @@ This repository contains sample projects developed for CS classes at UCLA. Each 
 
 ### CS111 Projects - OS Class
 
-This repository contains projects developed for the Operating Systems Class (CS111) at UCLA 2005 (C/C++).
+This repository contains projects developed for the Operating Systems Class (CS111).
 
 * prj1: **Sample Bash-Like Shell in C**. (key conceps: string manipulation & process forking).
 * prj2: **Implement system call in Linux Kernel**. (system calls in kernel, patchs, diff).
