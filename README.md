@@ -6,18 +6,18 @@ This repository contains sample projects developed for Computer Science and Elec
 
 This repository contains projects developed for the Operating Systems Class.
 
-* prj1: Sample Bash-Like Shell in C. (key conceps: string manipulation & process forking).
-* prj2: System Call in Linux Kernel**. (system calls in kernel, patchs, diff).
-* prj3: Multithreating Processes implementation. (round robin scheduler, locks, multi-threating).
-* prj4: Implementation of UnDelete Call in Fat 12/16 File System. (FAT12/16, FileOI, MemIO).
+* Prj1: Sample Bash-Like Shell in C. (key conceps: string manipulation & process forking).
+* Prj2: System Call in Linux Kernel**. (system calls in kernel, patchs, diff).
+* Prj3: Multithreating Processes implementation. (round robin scheduler, locks, multi-threating).
+* Prj4: Implementation of UnDelete Call in Fat 12/16 File System. (FAT12/16, FileOI, MemIO).
 
 
 ### CS118 - Network Class (Projects)
 
 This repository contains projects developed for Networking Class.
 
-* prj1: Client/Sever Socket. (key conceps: data tx/rx over sockets).
-* prj2: FEC & CRC Implementation. (File transfer over UDP, FEC & CRC).
+* Prj1: Client/Sever Socket. (key conceps: data tx/rx over sockets).
+* Prj2: FEC & CRC Implementation. (File transfer over UDP, FEC & CRC).
 
 
 ### CS131 - Programming Languages (Projects)
@@ -26,12 +26,21 @@ Class URL: [http://www.cs.ucla.edu/classes/fall03/cs131/](http://www.cs.ucla.edu
 
 This repository contains projects developed:
 
-* homework-1: Scheme code difference analyzer.
-* homework-2: Scheme-to-Prolog translator.
-* homework-3: Java web crawler.
-* homework-4: Python web crawler.
-* project-1: Scheme program matcher.
-* project-2: Web page comparison server.
+* Homework-1: Scheme code difference analyzer.
+* Homework-2: Scheme-to-Prolog translator.
+* Homework-3: Java web crawler.
+* Homework-4: Python web crawler.
+* Project-1: Scheme program matcher.
+* Project-2: Web page comparison server.
+
+
+### CS174 - Computer Graphics (OpenGL)
+
+Class lectures, assignment and documents.
+
+* Assignment 1: Simple OpenGL animation.
+* Assignment 2: Textes, objects and camera motion.
+* Assignment 3: Full ray tracer implementation to render 3D image in 2D png.
 
 
 ### EE110L - Electrical Engineering 110 Laboratory
