@@ -44,3 +44,20 @@ Lab experiments 1 to 6.
 ### EE115A - Electrical Engineering 115A Class 
 
 List of homeworks, mid-term preparationg and Spice tutorial.
+
+
+### EE116L - Digital System Design Laboratory 
+
+Project files and lab reports.
+
+* Lab 1: Introduction to the Breadboard, Wiring, and 7400 Logic Chips.
+* Lab 2: Implementation of a State Machine.
+* Lab 3: General Register Implementation.
+* Lab 4: Digital Oscilloscopes and Frequency Response.
+* Lab 5: Implementation of a Multiplier.
+* Lab 6: Implementation of a Simple Modem.
+
+
+
+
+
