@@ -4,6 +4,8 @@ This repository contains sample projects developed for Computer Science and Elec
 
 ### CS111 - Operating System Class (Projects)
 
+Professor: Mark Kampe, Spring 2004
+
 This repository contains projects developed for the Operating Systems Class.
 
 * Prj1: Sample Bash-Like Shell in C. (key conceps: string manipulation & process forking).
@@ -24,6 +26,8 @@ This repository contains projects developed for Networking Class.
 
 Class URL: [http://www.cs.ucla.edu/classes/fall03/cs131/](http://www.cs.ucla.edu/classes/fall03/cs131/)
 
+Professor: Paul Eggert
+
 This repository contains projects developed:
 
 * Homework-1: Scheme code difference analyzer.
@@ -34,7 +38,22 @@ This repository contains projects developed:
 * Project-2: Web page comparison server.
 
 
+### CSM151B - Computer System Architecture
+
+Professor: Savio Chau, Ph.D., Spring 2003
+
+Class notes, homeworks and projects. (CISC, RISK, CPU, DATA BUSES, ASM, etc.)
+
+- homeworks
+- projects
+- notes
+- sample problems & solutions
+
+
+
 ### CS174 - Computer Graphics (OpenGL)
+
+Professor: Petros Faloutsos, Fall 2004
 
 Class lectures, assignment and documents.
 
@@ -45,7 +64,9 @@ Class lectures, assignment and documents.
 
 ### CS180 - Algorithms & Complexity
 
-Professor url: [http://www.cs.ucla.edu/~majid/](http://www.cs.ucla.edu/~majid/)
+Professor: Majid Sarrafzadeh
+[http://www.cs.ucla.edu/~majid/](http://www.cs.ucla.edu/~majid/)
+
 
 Homeworks and official solutions.
 
