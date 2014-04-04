@@ -2,7 +2,23 @@
 
 This repository contains sample projects developed for Computer Science and Electrical Engineering Degree at UCLA. Each directory contains source code for the projects developed in respective courses. The sample projects here are prior to 2005 and should only be used as references for learning purposes. These projects were developed by students (R. Javier Vega & Eddie Esquivel) while learning key CS and EE at UCLA. Therefore they should NOT be considered for production or professional environments.
 
-### CS111 - Operating System Class (Projects)
+### CS33 - Computer Organization
+
+Professor: John A. Rohr, Spring 2003
+
+- homeworks
+- projects
+
+### CS51A - Login Design of Digital Systems
+
+Professor: Leon Alkalai
+
+- class notes
+- homeworks
+- midterm
+
+
+### CS111 - Operating System
 
 Professor: Mark Kampe, Spring 2004
 
@@ -14,7 +30,7 @@ This repository contains projects developed for the Operating Systems Class.
 * Prj4: Implementation of UnDelete Call in Fat 12/16 File System. (FAT12/16, FileOI, MemIO).
 
 
-### CS118 - Network Class (Projects)
+### CS118 - Network Class
 
 This repository contains projects developed for Networking Class.
 
@@ -22,7 +38,7 @@ This repository contains projects developed for Networking Class.
 * Prj2: FEC & CRC Implementation. (File transfer over UDP, FEC & CRC).
 
 
-### CS131 - Programming Languages (Projects)
+### CS131 - Programming Languages
 
 Class URL: [http://www.cs.ucla.edu/classes/fall03/cs131/](http://www.cs.ucla.edu/classes/fall03/cs131/)
 
@@ -50,8 +66,15 @@ Class notes, homeworks and projects. (CISC, RISK, CPU, DATA BUSES, ASM, etc.)
 - sample problems & solutions
 
 
+### CS152B - Floating Point Numbers Implementation
 
-### CS174 - Computer Graphics (OpenGL)
+Laboratory to implement CPU Architecture with Floating Number Support.
+
+- projects 1-4 (ALU, BUS, DATA PATH, JAVA ASM COMPILER)
+- tutorials
+
+
+### CS174 - Computer Graphics & OpenGL
 
 Professor: Petros Faloutsos, Fall 2004
 
@@ -76,20 +99,42 @@ Homeworks and official solutions.
 * Homework 4: Dynamic Programming.
 
 
+### EE10 - Circuit Analysis 1
 
-### EE110L - Electrical Engineering 110 Laboratory
+- Lecture notes.
+- Spice tutorials.
+
+
+### EE102 - Systems and Signals
+
+- Lecture notes.
+- Homeworks.
+- Midterm samples.
+
+
+### EE110L - Electrical Engineering Lab
 
 Entry level analog circuits laboratory about resistance, capacitance, filters, frequency responses, Kirchhoff’s laws and others.
 
 Lab experiments 1 to 6.
 
 
-### EE115A - Electrical Engineering 115A Class 
+### EE115A - Electrical Engineering
 
-List of homeworks, mid-term preparationg and Spice tutorial.
+- Homeworks.
+- Mid-terms.
+- Spice tutorial.
 
 
-### EE116L - Digital System Design Laboratory 
+### EE115C - Digital Electronic Circuits
+
+- Lecture notes.
+- Homeworks.
+- Projects.
+- Midterm.
+
+
+### EE116L - Digital System Design Lab 
 
 Project files and lab reports.
 
@@ -101,6 +146,10 @@ Project files and lab reports.
 * Lab 6: Implementation of a Simple Modem.
 
 
+### EE171L - Signals Lab
+
+- Class materials & handouts.
+- Labs 1-7 & solutions.
 
 
 
