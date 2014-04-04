@@ -59,7 +59,7 @@ Class lectures, assignment and documents.
 
 * Assignment 1: Simple OpenGL animation.
 * Assignment 2: Textes, objects and camera motion.
-* Assignment 3: Full ray tracer implementation to render 3D image in 2D png.
+* Assignment 3: Ray tracer implementation to render 3D image in 2D png.
 
 
 ### CS180 - Algorithms & Complexity
