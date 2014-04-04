@@ -34,8 +34,13 @@ This repository contains projects developed:
 * project-2: Web page comparison server.
 
 
-### EE 110L - Electrical Engineering 110 Laboratory
+### EE110L - Electrical Engineering 110 Laboratory
 
 Entry level analog circuits laboratory about resistance, capacitance, filters, frequency responses, Kirchhoff’s laws and others.
 
 Lab experiments 1 to 6.
+
+
+### EE115A - Electrical Engineering 115A Class 
+
+List of homeworks, mid-term preparationg and Spice tutorial.
